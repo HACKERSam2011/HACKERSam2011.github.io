@@ -14,9 +14,6 @@
 
 -->
 
->## 注意
->
->### 纳米字库制作的字体版权由NANOFONT及HACKERSam所有，禁止二创售卖！！
 
 ## &nbsp;
 <div align="center">

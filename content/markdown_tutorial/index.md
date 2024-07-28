@@ -1,5 +1,5 @@
 <!--Markdown 编写-->
-<title>Markdown教学-1</title>
+<title>Markdown教学</title>
 <link rel="shortcut icon" href="https://hss.fmdns.cn/assets/pic/favicon.ico">
 
 # Markdown教学
@@ -238,7 +238,7 @@ Markdown可以在一行中使用三个`*`或`-`建立一个分割线
 
 ## 书写公式
 
-这个功能是使用Katex从而能写出公式的，[点此](hss.fmdns.cn/content/markdown_katex_tutorial/)进入Katex教程
+这个功能是使用Katex从而能写出公式的，[点此](http://hss.fmdns.cn/content/markdown_katex_tutorial/)进入Katex教程
 
 如下:
 ```md

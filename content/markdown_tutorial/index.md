@@ -238,18 +238,28 @@ Markdown可以在一行中使用三个`*`或`-`建立一个分割线
 
 ## 书写公式
 
-这个功能是使用Katex从而能写出公式的，[点此](http://hss.fmdns.cn/content/markdown_katex_tutorial/)进入Katex教程
+这个功能是使用Katex从而能写出公式的
 
 如下:
 ```md
 $居左的算式：3+3=5$
 $$居中的算式：2+2=6$$
 ```
+## 展开折叠
+
+代码如下([Losketch](http://github.com/Losketch)提供):
+```md
+<details>
+<summary>标题</summary>
+“这里要一行空行，否则里面的md样式无法生效”
+
+</details>
+```
 
 
 ## &nbsp;
 
-$$HACKERSam制作$$
+HACKERSam制作
 
 # &nbsp;
 

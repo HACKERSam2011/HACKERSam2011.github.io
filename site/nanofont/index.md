@@ -4,7 +4,7 @@
 
 # NANOFONT - 纳米字库
 
-# [链接](https://hss.fmdns.cn/site/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[字体下载页](https://hss.fmdns.cn/site/nanofont/dlfont/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[关于NANOFONT](https://hss.fmdns.cn/site/nanofont/about/)
+# [链接](https://hss.fmdns.cn/site/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[字体下载页](https://hss.fmdns.cn/site/nanofont/dlfont/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[关于NANOFONT](https://hss.fmdns.cn/site/nanofont/about/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[计划](https://hss.fmdns.cn/site/nanofont/plans/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[合作列表](https://hss.fmdns.cn/site/nanofont/join/)
 
 ## &nbsp;
 
@@ -25,6 +25,12 @@
 >|纳米展流黑|HACKERSam|2023-9-10|2024-5-28|**永不更新**|OFL|
 >|纳米丰宋|HACKERSam|2024-7-19|2024-7-26|**暂不更新**|OFL|
 >|纳米老宋|HACKERSam|2024-3-12|2024-7-24|**更新**|OFL|
+
+># 注意
+>
+> 纳米字库制作的字体有四种授权License: OFL/NFL/NAFL/COTFL
+>
+> 若是与纳米字库合作的字体授权方式可以自由选择，或者使用NANOFONT的授权方式
 
 ## &nbsp;
 <div align="center">

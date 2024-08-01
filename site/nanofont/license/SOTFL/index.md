@@ -1,9 +1,10 @@
 <!--Markdown 编写-->
-<title>BFL</title>
+<title>SOTFL</title>
+<link rel="shortcut icon" href="https://hss.fmdns.cn/assets/pic/favicon.ico">
 
-# BFL(BuwuzhengyedexiaojiFontLicense)
+# SOTFL(SuperOpenFontLicense)
 
-## 这是一个由Cod'dte开设的一个宽容性强的字体授权方式
+## 这是一个由HACKERSam开设的一个宽容性极强的字体授权方式
 
 ### 你可以:
 
@@ -11,16 +12,13 @@
 2. 可以自由传播、分享、也可以将字体安装于系统、软件中，可以与软件捆绑后分发
 3. 可以使用于印刷排版、图绘设计、商标设计
 4. 可以更改开闭源
-5. 允许单独售卖
-6. 一旦定下此字体授权协议则可以随意更改，闭源后一样
-7. 可以自由更改此字体，更改后并发布到网上，更改后还可以继续更改字体授权协议
+5. 允许单独售卖，但不可以标价售卖
+6. 可以自由更改此字体，更改后以SOTFL的授权形式发布到网上
 
-### 限制
+### 你不可以
 
 1. 更改的字体和售卖的字体必须标注原作者的名称
 2. 此字体不能用于违法行为，如因使用这款字体产生纠纷或法律诉讼，作者不承担任何责任
-
-
 
 
 ## &nbsp;

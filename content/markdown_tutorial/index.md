@@ -39,6 +39,17 @@ Markdown是一款基于Html做出来的语言，主要用于README文件、写�
 >
 > 3. 标题用于表格内或者嵌入于Html代码块内部可能会无法解析！
 
+<details>
+<summary>展示样式</summary>
+
+# 一级标题
+## 二级标题
+### 三级标题
+#### 四级标题
+##### 五级标题
+###### 六级标题
+</details>
+
 ## 字体形式
 
 在Html代码中，粗体的代码如下:
@@ -80,11 +91,36 @@ Markdown语法里不管是星号和下划线都可以！，单是斜体，双是
 > 2. `<mark>`标签的样式可以用 `style="background-color: <颜色或#16进制颜色代码>;"` 来改变颜色
 > 3. `<font>`标签的样式用 `color="<颜色或#16进制颜色代码>"` 来改变颜色
 
+<details>
+<summary>展示样式</summary>
+
+**粗体**<br>
+*斜体*<br>
+***粗斜体***<br>
+~~删除线~~<br>
+<u>下划线</u><br>
+<sub>下标</sub><br>
+<sup>上标</sup><br>
+<big>大字体</big><br>
+<small>小字体</small><br>
+<mark>文本高亮</mark><br>
+<font color="red">文本颜色</font><br>
+<kbd>展示键盘输入</kbd><kbd>Ctrl</kbd><br>
+<code>标记代码片段</code><br>
+<ruby>饕餮 <rt>tāo tiè</rt></ruby><br>
+</details>
+
 ## 换行
 
 1. 直接在一句话后面加两个空格
 2. 两句话之间加一个空行
 3. 换行可以用html语法的`<br>`标签
+
+## 分割线
+
+1. 直接一整行使用`---`
+2. 使用html语法的`<hr>`标签：
+<hr>
 
 ## 空格
 
@@ -115,6 +151,9 @@ Markdown语法里不管是星号和下划线都可以！，单是斜体，双是
 ```
 ### 更多引用
 
+<details>
+<summary>点击展开</summary>
+
 注意引用：
 ``` md
 > [!NOTE]  
@@ -140,6 +179,7 @@ Markdown语法里不管是星号和下划线都可以！，单是斜体，双是
 > [!CAUTION]
 > 操作可能带来的负面后果。
 ```
+</details>
 
 ## 注释
 注释可以使用Html中的`<!---->`以使用注释，示例如下:
@@ -294,12 +334,13 @@ $$居中的算式：2+2=6$$
 
 ## &nbsp;
 
-HACKERSam制作
+HACKERSam and Losketch制作
 
 # &nbsp;
 
 <div align="center">
     Copyright 2024 - HSS ©
+    Copyright 2024 - LOS ©
 </div>
 
 <!--
